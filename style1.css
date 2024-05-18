@@ -1,0 +1,155 @@
+/* # is used for id and . is used for class*/
+html,body{
+    margin: 0px;
+    padding: 0px;
+    height:100%;
+    width: 101%;
+    overflow-x: hidden;
+}
+.container {
+    height:520px;
+     width:500px; 
+    position: relative;
+  }
+  .container1 {
+    height:520px;
+     width:250px; 
+    position: relative;
+  }
+  .container3,.container2
+  {
+    height:260px;
+    width:270px; 
+   position: relative;
+  }
+ .text-block button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+}
+.text-block2 button{
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        display: inline-block;
+    }
+
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .text-block2 {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  h2.con2{
+    margin:0px 0px 0px 0px;
+}
+  
+#wrapper{
+    width: 101%;
+    margin: 2px 2px;
+    border-radius: 6px;
+    box-shadow: 0px 1px 6px rgba(0,0,0,0.2);
+    box-sizing: border-box;
+    padding: 0 0 0 0;
+    overflow: hidden;
+    border: 0px solid lightgray;
+    word-spacing: 0;
+}
+ul{
+    margin:0 ;
+    padding:10px;
+    
+}
+a{
+    color:black;
+    text-align:center;
+    padding:10px;
+}
+div.top{
+    height: 40px;
+    background-color:grey;
+    color:black;
+}
+div.button{
+    padding-top:10px;
+}
+li.crumb {
+display:inline-block;
+}
+h1.tiitle{
+    height:80px;
+    padding:10px;
+    width:100%;
+    background-color: black;
+    text-align: left;
+    color: rgb(212, 204, 204);
+    margin: 0% 0% 0% 0%;
+}
+p,h3,input
+{
+ display: inline-block;
+}
+tab1 
+{
+ display: inline-block;
+ margin-left: 600px;
+}
+tab 
+{
+ display: inline-block;
+ margin-left: 1035px;
+}
+.container,.container1,.container2
+{
+    display:inline-block;
+}
+
+.pics .table{
+    display: inline-block;
+} 
+.tablei{
+      width: 475px; 
+      border-radius: 5px;
+       margin:auto; 
+      border: 2px solid rgb(236, 232, 232);
+      vertical-align: middle;
+
+}
+.text{
+    display: inline-block;
+    vertical-align: middle;
+    font-size:20px;
+    font-family:sans-serif;
+    padding-bottom: 20px;
+}
+.tablei1{
+      margin:auto;
+      border: 2px solid rgb(239, 239, 239);
+      height: 128px;
+}
+.tablei2{
+      margin:auto;
+      border: 2px solid rgb(194, 191, 191);
+      height: 128px;
+}
+.tablei3{
+      margin:auto;
+      border: 2px solid rgb(220, 215, 215);
+     height: 128px;
+}
+.tablei4{
+      margin:auto;
+      border: 2px solid rgb(233, 230, 230);
+     height: 128px;
+}
